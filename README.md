@@ -1,41 +1,34 @@
-# 👋 Bonjour, je suis Emmanuel KOUAME
+# 👨🏾‍💻 Emmanuel KOUAME
 
-## 💻 Étudiant en informatique
+## 🖥️ À propos de moi
 
-Je suis actuellement étudiant en informatique à **MyDigitalSchool**.
+Je suis étudiant en informatique à MyDigitalSchool.
 
-Passionné par le numérique et les nouvelles technologies, je développe progressivement mes compétences dans différents domaines de l'informatique.
-
-## 🚀 Mes objectifs
-
-- Développer mes compétences en programmation
-- Apprendre à créer des sites et applications web
-- Maîtriser les outils et méthodes du développement informatique
-- Réaliser des projets concrets et enrichir mon portfolio
+Je m'intéresse au développement web, à la programmation et aux nouvelles technologies.
 
 ## 🛠️ Compétences
 
+- HTML / CSS
 - Git & GitHub
 - Linux
 - Algorithmique
-- HTML / CSS
-- Bases de la programmation
-- Environnement numérique
 
-## 📚 Formation
+## 🎓 Formation
 
 **MyDigitalSchool**  
-Étudiant en informatique — 2026
+Étudiant en informatique
 
-## 📂 Mes projets
+## 🚀 Projets
 
-Ce dépôt constitue mon **portfolio professionnel**.  
-J'y présenterai progressivement mes projets, travaux pratiques et réalisations effectués durant ma formation.
+### Portfolio GitHub
+Création de mon premier portfolio professionnel avec GitHub.
 
-## 🎯 À venir
+D'autres projets seront ajoutés progressivement au cours de ma formation.
 
-De nouveaux projets seront ajoutés au fur et à mesure de mon apprentissage.
+## 🎯 Objectif
+
+Développer mes compétences en informatique et réaliser des projets concrets.
 
 ---
 
-⭐ Merci de visiter mon profil GitHub !
+⚡ *Learn. Build. Improve.*

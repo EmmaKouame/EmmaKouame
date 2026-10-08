@@ -1,3 +1,6 @@
+![Emmanuel KOUAME](888F96A5-EC55-423D-9F55-2434C425963E.png)
+
+# 👨🏾‍💻 Emmanuel KOUAME
 # 👨🏾‍💻 Emmanuel KOUAME
 
 ## 🖥️ À propos de moi
